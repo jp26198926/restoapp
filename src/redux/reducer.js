@@ -5,42 +5,42 @@ const initialState = {
       name:"Burger",
       price:50,
       category:"Food",
-      image:"https://image.flaticon.com/icons/svg/1046/1046784.svg"
+      image:"https://www.seekpng.com/png/detail/19-194645_download-svg-download-png-burger-emoji.png"
     },
     {
       id:2,
       name:"Pizza",
       price:100,
       category:"Food",
-      image:"https://image.flaticon.com/icons/svg/1046/1046771.svg"
+      image:"https://www.pikpng.com/pngl/m/21-212291_svg-transparent-pizza-vector-gallery-yopriceville-high-food.png"
     },
     {
       id:3,
       name:"Fries",
       price:25,
       category:"Food",
-      image:"https://image.flaticon.com/icons/svg/1046/1046786.svg"
+      image:"https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Fries.svg/1200px-Fries.svg.png"
     },
     {
       id:4,
       name:"Coffee",
       price:35,
       category:"Drink",
-      image:"https://image.flaticon.com/icons/svg/1046/1046785.svg"
+      image:"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Coffee_cup_flat.svg/1200px-Coffee_cup_flat.svg.png"
     },
     {
       id:5,
       name:"IcedTea",
       price:45,
       category:"Drink",
-      image:"https://image.flaticon.com/icons/svg/1046/1046782.svg"
+      image:"https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Glass_of_iced_tea.svg/1200px-Glass_of_iced_tea.svg.png"
     },
     {
       id:6,
       name:"HotTea",
       price:45,
       category:"Drink",
-      image:"https://image.flaticon.com/icons/svg/1046/1046792.svg"
+      image:"https://cdn2.iconfinder.com/data/icons/coffee-and-tea-set-filled-color/300/205719481Untitled-3-512.png"
     }
   ],
   categories: ['Food', 'Drink', 'Dessert'],
